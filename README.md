@@ -10,9 +10,9 @@ My hobbies include...
 - 📸 Photography
 - 🏀 sports
 
-How to reach me: 
+# 📭 How to reach me: 
 
-- linkedin.com/in/alexandra-vera
+- https://www.linkedin.com/in/alexandra-vera
 
 
 <!---
