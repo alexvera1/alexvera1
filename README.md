@@ -4,21 +4,16 @@ I'm a software engineer with strong skills in communication, teamwork, JavaScrip
 
 My hobbies include...
 
-🌱 Health/Wellness
-🌏 Traveling 
-🏕 camping
-📸 Photography
-🏀 sports
+- 🌱 Health/Wellness
+- 🌏 Traveling 
+- 🏕 camping
+- 📸 Photography
+- 🏀 sports
 
 Learn more at...
 
 linkedin.com/in/alexandra-vera
 
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in software engineering, health & wellness, camping, 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 alexvera1/alexvera1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
