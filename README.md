@@ -12,7 +12,7 @@ My hobbies include...
 
 Learn more at...
 
-linkedin.com/in/alexandra-vera
+- linkedin.com/in/alexandra-vera
 
 
 <!---
