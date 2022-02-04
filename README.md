@@ -1,8 +1,8 @@
-Hello World! 👋
+## Hello World! 👋
 
 I'm a software engineer with strong skills in communication, teamwork, JavaScript, Python, React, HTML, and CSS. I graduated from General Assembly's Software Engineering Immersive program. Prior to that, I majored in Public Health at San Francisco State University.
 
-My hobbies include...
+## My hobbies include...
 
 - 🌱 Health/Wellness
 - 🌏 Traveling 
@@ -10,7 +10,7 @@ My hobbies include...
 - 📸 Photography
 - 🏀 sports
 
-# 📭 How to reach me: 
+## 📭 How to reach me: 
 
 - https://www.linkedin.com/in/alexandra-vera
 
