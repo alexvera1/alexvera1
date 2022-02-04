@@ -12,7 +12,7 @@ My hobbies include...
 
 How to reach me: 
 
-- https://www.linkedin.com/in/alexandra-vera
+- linkedin.com/in/alexandra-vera
 
 
 <!---
