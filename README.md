@@ -5,7 +5,7 @@ I'm a software engineer with skills in teamwork, communication, JavaScript, Pyth
 ### My hobbies include...
 
 - 🌱 Health/Wellness
-- 🌏 Traveling 
+- ✈️ Traveling
 - 🏕 camping
 - 🎧 Music
 - 📸 Photography
