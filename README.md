@@ -10,7 +10,7 @@ I'm a software engineer with strong skills in communication, teamwork, JavaScrip
 - 🎧 Music
 - 📸 Photography
 
-### Learn more: 
+### Where to reach me 📬: 
 
 - https://www.linkedin.com/in/alexandra-vera
 
