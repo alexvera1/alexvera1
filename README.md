@@ -6,7 +6,7 @@ I'm a software engineer with strong skills in communication, teamwork, JavaScrip
 
 - 🌱 Health/Wellness
 - ✈️ Traveling
-- 🏕 camping
+- 🏕 Camping
 - 🎧 Music
 - 📸 Photography
 
