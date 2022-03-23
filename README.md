@@ -12,6 +12,8 @@ I'm a software engineer with strong skills in communication, teamwork, JavaScrip
 
 ### Where to reach me 📬: 
 
+- https://alexvera1.github.io/personal-portfolio/
+
 - https://www.linkedin.com/in/alexandra-vera
 
 
