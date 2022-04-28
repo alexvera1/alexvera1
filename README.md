@@ -1,14 +1,7 @@
 **Hello World!** 👋
 
-I'm a software engineer with strong skills in communication, teamwork, JavaScript, Python, MERN stack, HTML, and CSS. I graduated from General Assembly's Software Engineering Immersive program. Prior to that, I studied public health at San Francisco State University.
+I'm a recent software engineering graduate with a strong foundation in computer science, software design, and frontend development. I'm familiar with multiple coding languages and framworks including JavaScript, HTML, and CSS and MERN stack. I graduated from General Assembly's Software Engineering Immersive program. Prior to that, I studied public health at San Francisco State University.
 
-### My hobbies include...
-
-- 🌱 Health/Wellness
-- ✈️ Traveling
-- 🏕 Camping
-- 🎧 Music
-- 📸 Photography
 
 ### Where to reach me 📬: 
 
