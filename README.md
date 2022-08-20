@@ -12,6 +12,8 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 
 
 
+
+
 ### Where to reach me 📬: 
 
 - https://www.linkedin.com/in/alexandra-vera
