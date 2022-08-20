@@ -5,9 +5,10 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 
 ### Some of My Hobbies Include: 
 
-✈️ Travel,
-🏕 Camping,
-🎧 Music
+- ✈️ Travel
+- 🏕 Camping
+- 🏀 Sports
+- 🎧 Music
 
 
 
