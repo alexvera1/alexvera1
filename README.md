@@ -1,7 +1,7 @@
 
 Hello, World! 👋
 
-I'm a recent software engineering graduate with a strong foundation in computer science, software design, and frontend development. I'm familiar with multiple coding languages and framworks including JavaScript, HTML, CSS and MERN stack. I completed General Assembly's Software Engineering Immersive bootcamp. Prior to that, I studied public health at San Francisco State University.
+I'm a recent software engineering graduate with a strong foundation in computer science, software design, and frontend development. I'm familiar with multiple coding languages and frameworks including JavaScript, HTML, CSS and MERN stack. I completed General Assembly's Software Engineering Immersive bootcamp. Prior to that, I studied public health at San Francisco State University.
 
 ### Some of My Hobbies Include: 
 
