@@ -16,9 +16,9 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 
 ### Where to reach me 📬: 
 
-- https://www.linkedin.com/in/alexandra-vera
+- [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
 
-- https://alexvera1.github.io/personal-portfolio
+- [Porfolio](https://alexvera1.github.io/personal-portfolio)
 
 <!---
 alexvera1/alexvera1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
