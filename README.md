@@ -3,7 +3,7 @@
 
 I'm a recent software engineering graduate with a strong foundation in computer science, software design, and frontend development. I'm familiar with multiple coding languages and frameworks including JavaScript, HTML, CSS and MERN stack. I completed General Assembly's Software Engineering Immersive bootcamp. Prior to that, I studied public health at San Francisco State University.
 
-### Some of My Hobbies Include: 
+### Some Of My Hobbies Include: 
 
 - 🌎 Travel
 - 🏕 Camping
@@ -15,11 +15,11 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 
 
 
-### Where to reach me 📬: 
+### Where To Reach Me 📬: 
 
-- [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
+1. [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
 
-- [Porfolio](https://alexvera1.github.io/personal-portfolio)
+2. [Porfolio](https://alexvera1.github.io/personal-portfolio)
 
 <!---
 alexvera1/alexvera1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
