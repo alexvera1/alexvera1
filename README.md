@@ -19,7 +19,7 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 
 - [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
 
-- [Porfolio](https://alexvera1.github.io/personal-portfolio)
+- [Portfolio](https://alexvera1.github.io/personal-portfolio)
 
 <!---
 alexvera1/alexvera1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
