@@ -9,7 +9,7 @@ I'm a recent software engineering graduate with a strong foundation in computer 
 - 🏕 Camping
 - 🏀 Sports
 - 🎧 Music
-- Health & Wellness 🌿
+- 🍃 Health & Wellness 
 
 
 
