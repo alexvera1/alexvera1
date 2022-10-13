@@ -9,7 +9,7 @@ I'm a software engineer with a strong foundation in computer science, object ori
 - 🏕 Camping
 - 🏀 Sports
 - 🎧 Music
-- 🍃 Health & Wellness 
+- 🌱 Health & Wellness 
 
 
 
