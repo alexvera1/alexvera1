@@ -22,7 +22,7 @@ I'm a software engineer with a strong foundation in computer science, object ori
 
 - [Resume](https://drive.google.com/file/d/1MIHJObzkhm2NYNf87t1BKgH6r6R3djAc/view?usp=sharing)
 
-- [Portfolio](https://alexvera1.github.io/personal-portfolio)
+- [Portfolio](https://alexvera1.github.io)
 
 
 <!---
