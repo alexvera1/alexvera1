@@ -1,7 +1,8 @@
 
 **Hello, World!** 👋
 
-I'm a software engineer with a strong foundation in computer science, object oriented programming, and frontend development. I'm familiar with multiple coding languages and frameworks including JavaScript, React, HTML, CSS and MERN stack. I completed General Assembly's Software Engineering Immersive bootcamp. Prior to that, I studied public health at San Francisco State University.
+I'm a front-end software engineer with 1+ years of experience programming in JavaScript, HTML, CSS, and MERN stack using Git / GitHub source control and deploying applications via Heroku cloud. My background is specializing in React and Node.js web development practices. I completed General Assembly's Software Engineering Immersive bootcamp. Prior to that, I studied public health at San Francisco State University.
+
 
 ### Some Of My Hobbies Include: 
 
