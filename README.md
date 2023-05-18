@@ -5,11 +5,13 @@ I'm a full-stack software engineer with 1+ years of experience programming in Ja
 
 
 
-### Some Of My Hobbies Include: 
+### Some Of My Interests Include: 
+- 🏦 FinTech
+- ⚕️ Healthtech
+- 🎮 Gaming
 
 - 🌎 Travel
 - 🏕 Camping / being outdoors
-- 🏀 Sports
 - 🍃 Health & Wellness 
 
 
