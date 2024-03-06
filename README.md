@@ -5,20 +5,6 @@ I'm a full-stack software engineer with 1+ years of experience programming in Ja
 
 
 
-### Some Of My Interests Include: 
-- 🏦 FinTech
-- ⚕️ HealthTech
-- 🎮 Gaming
-
-- 🌎 Travel
-- 🏕 Camping / being outdoors
-- 🍃 Health & Wellness 
-
-
-
-
-
-
 ### Where To Reach Me 📬: 
 
 - [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
