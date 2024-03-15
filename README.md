@@ -9,7 +9,7 @@ I'm a full-stack software engineer with 1+ years of experience programming in Ja
 
 - [LinkedIn](https://www.linkedin.com/in/alexandra-vera)
 
-- <a href="https://drive.google.com/file/d/1ETo5rEulYW1D-zO4nNC925mkgwDMpMQT/view?usp=sharing" target="_blank">Resume</a>
+- [Resume](https://drive.google.com/file/d/1ETo5rEulYW1D-zO4nNC925mkgwDMpMQT/view?usp=sharing)
   
 - [Portfolio](https://alexvera1.github.io)
 
