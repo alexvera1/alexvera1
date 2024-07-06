@@ -7,11 +7,11 @@ My name is Alex Vera. I'm a full-stack software engineer with 1+ years of experi
  
 ### Some Of My Hobbies Inlcude :
 
-- 👩🏻‍💻 Currently learning C++
-- 🌎 Travel
-- 📸 Photography
-- ☕️ Coffee
-- 🌱 Health & Wellness
+👩🏻‍💻 Currently learning C++
+🌎 Travel
+📸 Photography
+☕️ Coffee
+🌱 Health & Wellness
 
 
   
