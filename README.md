@@ -7,7 +7,7 @@ I'm a full-stack software engineer with 1+ years of experience programming in Ja
 
 ### Where To Reach Me 📬: 
 
-- [LinkedIn](https://www.linkedin.com/in/alexandra-vera){:target="_blank"}
+- <a href="https://www.linkedin.com/in/alexandra-vera" target="_blank">LinkedIn</a>
 
 - [Resume](https://drive.google.com/file/d/1ETo5rEulYW1D-zO4nNC925mkgwDMpMQT/view?usp=sharing)
   
