@@ -10,7 +10,7 @@ My name is Alex Vera. I'm a full-stack software engineer with 1+ years of experi
 - 👩🏻‍💻 Currently learning C++
 - 🌎 Travel
 - 📸 Photography
-- ☕️ Coffee
+- ☕️ Staying caffinated
 - 🌱 Health & Wellness
 
 
